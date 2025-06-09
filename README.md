@@ -36,7 +36,7 @@ Some users have reported working codes like VOICE85, which claims a steep 85% of
 
 **Bottom line:** ElevenLabs doesn’t make you jump through hoops for their main deals, but a little code testing could save you even more. Worst case? Nothing happens. Best case? You score a [killer discount here](http://getplatform.link/elevenlabs).
 
-<img width="1129" alt="Screenshot 2025-06-09 at 2 36 32 PM" src="https://github.com/user-attachments/assets/5829a9ec-ed28-4b7c-b28f-60e5f2f25404" />
+<a href="http://getplatform.link/elevenlabs"><img width="1129" alt="Screenshot 2025-06-09 at 2 36 32 PM" src="https://github.com/user-attachments/assets/5829a9ec-ed28-4b7c-b28f-60e5f2f25404" /></a>
 
 ## Key Features That Make ElevenLabs Worth It
 There are plenty of AI voice tools out there, but ElevenLabs stands out because of its high quality, flexibility, and ease of use. If you’re considering paying for it—especially with a discount—these are the features that justify the price.
